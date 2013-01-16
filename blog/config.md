@@ -1,0 +1,2 @@
+Type  : Blog
+Title : Ruby
