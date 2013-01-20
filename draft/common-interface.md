@@ -12,8 +12,8 @@ Define Your design only one time, in one place, and then reuse it, forget about 
 
 ## Real-life usage:
 
-This site is 100% built by Common Interface, using the 'Simple Organization' theme (you can also see this page with the 'default' theme, [click here][default-theme]). 
-Actually it mixes two themes, because the cool 'Simple Organization' theme isn't completed, and many non-critical areas are built using the simple 'Default' theme. 
+This site is 100% built by Common Interface, using the 'Simple Organization' theme (you can also see this page with the 'default' theme, [click here][default-theme]).
+Actually it mixes two themes, because the cool 'Simple Organization' theme isn't completed, and many non-critical areas are built using the simple 'Default' theme.
 
 [TODO in new version of system there's no folders anymore, fix this sentence]
 (This [folder containing images for this page][folder] is built using mixture of two themes. It's not exactly obvious by just seeing it (because the 'Default' theme is also clean and white) but it is so.)
@@ -50,8 +50,8 @@ Please see http://github.com/alexeypetrushin/rad_common_interface
 
 ## Usage
 
-Please see the [readme][common-interface] and spec. 
-Source Code: http://github.com/alexeypetrushin/rad_common_interface 
+Please see the [readme][common-interface] and spec.
+Source Code: http://github.com/alexeypetrushin/rad_common_interface
 It is under heavy development so be ready that there may be bugs somewhere, if you are novice in Rails don't use it.
 
 [overview]: https://firenet.s3.amazonaws.com/fs/4da14c38743f0f218d00000f/4da14ea9743f0f218d000015/4e2d4477743f0f1c7400005a/overview.thumb.png

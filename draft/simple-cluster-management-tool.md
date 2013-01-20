@@ -65,7 +65,8 @@ class Services::Ruby < Service
   version 4
 
   def install
-    # it will be called only once, it will be called next time only if You change the version
+    # it will be called only once, it will be called next time only
+    # if You change the version
     apply_once :install do |box|
       logger.info "installing :#{service_name}"
       box.fake_bash "apt-get install ruby"
@@ -184,6 +185,7 @@ the real action.
 You can also see 'real' configuration I use to manage this site, [my_cluster][my_cluster].
 
 Tags : Administration, SSH
+Date : 2011/5/1
 
 [my_cluster]: http://github.com/alexeypetrushin/my_cluster/tree/master/lib/packages
 [vos]: http://github.com/alexeypetrushin/vos
