@@ -1,2 +1,2 @@
-Type  : Blog
-Title : Ruby
+Type   : Blog
+Title  : Ruby
